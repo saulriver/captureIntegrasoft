@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Laura
+Build-Jdk: 11.0.7
+Class-Path: libs/api-1.6.jar libs/enrollment-1.6.jar libs/jni-1.6.jar li
+ bs/verification-1.6.jar libs/gson-2.8.5.jar libs/json-20180813.jar libs
+ /AbsoluteLayout-SNAPSHOT.jar
+Main-Class: com.are.captureintegrasoft.MainForm
+Created-By: Maven Integration for Eclipse
+
